@@ -1,0 +1,2 @@
+Criar uma lista com todos os pontos
+Os pontos devem ter as coordenadas x,y
